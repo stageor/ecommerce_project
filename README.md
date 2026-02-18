@@ -182,11 +182,11 @@ This simulates a production analytics view used by BI tools.
 ## Project Structure
 
 /sql
-01_eda.sql
-02_magnitude_analysis.sql
-03_ranking.sql
-04_advanced_analytics.sql
-05_reporting_view.sql
+/01_eda.sql
+/02_magnitude_analysis.sql
+/03_ranking.sql
+/04_advanced_analytics.sql
+/05_reporting_view.sql
 
 ---
 
