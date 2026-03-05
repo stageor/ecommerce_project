@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project demonstrates end-to-end data analysis using advanced SQL.  
-The objective is to replicate real industry workflows, starting with structured Exploratory Data Analysis and progressing toward advanced analytical reporting using window functions, CTEs, subqueries, and performance logic.
+This project demonstrates end-to-end data analysis using advanced SQL. The objective is to replicate real industry workflows, beginning with structured exploratory data analysis and progressing to advanced analytical reporting using window functions, CTEs, subqueries, and performance-oriented logic.
+
 
 All analysis is implemented purely in SQL.
 
