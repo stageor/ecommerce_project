@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates end to end data analysis using advanced SQL. The goal is to mirror real industry workflows, starting with structured exploratory data analysis and progressing toward advanced analytical reporting. The analysis uses window functions, CTEs, subqueries, and performance focused query logic to extract insights from structured datasets.
+This project demonstrates a complete end-to-end data analysis workflow implemented using advanced SQL techniques. The primary objective is to simulate a real-world industry scenario in which raw structured data is transformed into meaningful analytical insights through a systematic and reproducible process. The analysis begins with structured exploratory data analysis (EDA), where the dataset is examined to
 
 
 All analysis is implemented purely in SQL.
