@@ -2,12 +2,7 @@
 
 ## Overview
 
-This project demonstrates end-to-end data analysis using advanced SQL. The goal is to mirror real industry workflows, starting with structured exploratory data analysis and moving toward advanced analytical reporting. The work incorporates window functions, CTEs, subqueries, and performance-focused query logic to handle complex analytical tasks.
-
-
-
-
-
+This project demonstrates end to end data analysis using advanced SQL. The goal is to mirror real industry workflows, starting with structured exploratory data analysis and progressing toward advanced analytical reporting. The analysis uses window functions, CTEs, subqueries, and performance focused query logic to extract insights from structured datasets.
 
 
 All analysis is implemented purely in SQL.
