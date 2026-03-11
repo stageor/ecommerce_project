@@ -2,7 +2,7 @@
 
 ## Overview
 
- project presents  end to end data analysis workflow  advanced SQL.  goal is to  real industry practice, starting with structured exploratory data analysis and moving toward advanced analytical reporting. The work applies  functions, common  expressions, subqueries, and performance focused query design to generate scalable analytical outputs.
+ project presents  end to end data analysis workflow  advanced SQL.  goal is to  real industry practice, starting with structured exploratory data analysis and moving toward advanced analytical reporting. The work applies  functions, common  expressions, subqueries,  performance focused query design to generate scalable analytical outputs.
 
 
 All analysis is implemented purely in SQL.
