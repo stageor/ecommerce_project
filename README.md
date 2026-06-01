@@ -180,7 +180,6 @@ This simulates a production analytics view used by BI tools.
 ---
 
 ## Project Structure
-
 ecommerce_project/
 │
 ├── sql/
