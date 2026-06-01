@@ -192,9 +192,6 @@ ecommerce_project/
 │
 └── README.md
 
----
-
-## What This Project Demonstrates
 
 - Structured analytical thinking  
 - Ability to move from raw data to insight  
